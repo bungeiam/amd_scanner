@@ -1,0 +1,245 @@
+
+ - 20210311_17:36:46 -  - Bot has started scanning -
+ - 20210311_18:50:22 -  - AMD RYZEN™ 5 5600X Processor is in stock, but you haven't selected it.
+ - 20210311_18:50:22 -  - AMD RYZEN™ 7 5800X Processor is in stock, but you haven't selected it.
+ - 20210311_22:15:07 -  - Bot has started scanning -
+ - 20210311_22:15:08 -  - AMD RYZEN™ 5 5600X Processor is in stock, but you haven't selected it.
+ - 20210311_22:15:08 -  - AMD RYZEN™ 7 5800X Processor is in stock, but you haven't selected it.
+ - 20210311_22:16:05 -  - Bot has started scanning -
+ - 20210311_22:16:05 -  - AMD RYZEN™ 5 5600X Processor is in stock, but you haven't selected it.
+ - 20210311_22:16:05 -  - AMD RYZEN™ 7 5800X Processor is in stock, but you haven't selected it.
+ - 20210311_22:18:33 -  - Bot has started scanning -
+ - 20210311_22:18:33 -  - AMD RYZEN™ 5 5600X Processor is in stock, but you haven't selected it.
+ - 20210311_22:18:33 -  - AMD RYZEN™ 7 5800X Processor is in stock, but you haven't selected it.
+ - 20210311_22:27:16 -  - Bot has started scanning -
+ - 20210311_22:27:16 -  - AMD RYZEN™ 7 5800X Processor is in stock, but you haven't selected it.
+ - 20210311_22:28:34 -  - Bot has started scanning -
+ - 20210311_22:28:34 -  - AMD RYZEN™ 7 5800X Processor is in stock, but you haven't selected it.
+ - 20210311_22:31:11 -  - Bot has started scanning -
+ - 20210311_22:31:11 -  - AMD RYZEN™ 7 5800X Processor is in stock, but you haven't selected it.
+ - 20210311_22:32:16 -  - Bot has started scanning -
+ - 20210311_22:32:16 -  - AMD RYZEN™ 7 5800X Processor is in stock, but you haven't selected it.
+ - 20210311_22:52:08 -  - Bot has started scanning -
+ - 20210311_22:52:16 -  - AMD RYZEN™ 7 5800X Processor is in stock, but you haven't selected it.
+ - 20210311_22:56:22 -  - Bot has started scanning -
+ - 20210311_22:56:26 -  - AMD RYZEN™ 7 5800X Processor is in stock, but you haven't selected it.
+ - 20210311_22:58:32 -  - Bot has started scanning -
+ - 20210311_22:58:34 -  - AMD RYZEN™ 7 5800X Processor is in stock, but you haven't selected it.
+ - 20210311_23:05:41 -  - Bot has started scanning -
+ - 20210311_23:05:46 -  - AMD RYZEN™ 7 5800X Processor is in stock, but you haven't selected it.
+ - 20210311_23:10:06 -  - Bot has started scanning -
+ - 20210312_00:11:30 -  - Bot has started scanning -
+ - 20210312_00:13:06 -  - Bot has started scanning -
+ - 20210312_00:13:10 -  - AMD Radeon™ RX 6900 XT Graphics is in stock, but you haven't selected it.
+ - 20210312_00:13:10 -  - AMD Radeon™ RX 6800 XT Graphics is in stock, but you haven't selected it.
+ - 20210312_00:13:10 -  - AMD RYZEN™ 9 5900X Processor is in stock, but you haven't selected it.
+ - 20210312_00:13:10 -  - AMD RYZEN™ 5 5600X Processor is in stock, but you haven't selected it.
+ - 20210312_00:13:10 -  - AMD Radeon™ RX 6800 Graphics is in stock, but you haven't selected it.
+ - 20210312_00:13:10 -  - AMD Ryzen™ 9 3950X Desktop Processor is in stock, but you haven't selected it.
+ - 20210312_00:13:10 -  - AMD RYZEN™ 9 5950X Processor is in stock, but you haven't selected it.
+ - 20210312_00:13:11 -  - AMD Ryzen™ 9 3900X Desktop Processor is in stock, but you haven't selected it.
+ - 20210312_00:26:36 -  - Bot has started scanning -
+ - 20210312_00:26:40 -  - Bot has started buying-module, it's trying to buy AMD RYZEN™ 7 5800X Processor. -
+ - 20210312_00:36:46 -  - Bot has started scanning -
+ - 20210312_00:36:51 -  - AMD RYZEN™ 7 5800X Processor is in stock, but you haven't selected it.
+ - 20210312_00:42:05 -  - Bot has started scanning -
+ - 20210312_00:42:09 -  - Bot has started buying-module, it's trying to buy AMD Radeon™ RX 6900 XT Graphics. -
+ - 20210312_00:46:35 -  - Bot has started scanning -
+ - 20210312_00:46:39 -  - Bot has started buying-module, it's trying to buy AMD Radeon™ RX 6900 XT Graphics. -
+ - 20210312_01:04:37 -  - Bot has started scanning -
+ - 20210312_01:04:42 -  - AMD RYZEN™ 7 5800X Processor is in stock, but you haven't selected it.
+ - 20210312_01:04:42 -  - Bot has started buying-module, it's trying to buy AMD Radeon™ RX 6900 XT Graphics. -
+ - 20210312_01:06:33 -  - Bot has started scanning -
+ - 20210312_01:06:37 -  - AMD RYZEN™ 7 5800X Processor is in stock, but you haven't selected it.
+ - 20210312_01:06:37 -  - Bot has started buying-module, it's trying to buy AMD Radeon™ RX 6900 XT Graphics. -
+ - 20210312_01:11:39 -  - Bot has started scanning -
+ - 20210312_01:11:43 -  - AMD RYZEN™ 7 5800X Processor is in stock, but you haven't selected it.
+ - 20210312_01:11:43 -  - Bot has started buying-module, it's trying to buy AMD Radeon™ RX 6900 XT Graphics. -
+ - 20210312_01:12:43 -  - Bot has started scanning -
+ - 20210312_01:12:47 -  - AMD RYZEN™ 7 5800X Processor is in stock, but you haven't selected it.
+ - 20210312_01:12:47 -  - AMD Radeon™ RX 6900 XT Graphics is in stock, but you haven't selected it.
+ - 20210312_01:12:47 -  - AMD Radeon™ RX 6800 XT Graphics is in stock, but you haven't selected it.
+ - 20210312_01:12:47 -  - AMD RYZEN™ 9 5900X Processor is in stock, but you haven't selected it.
+ - 20210312_01:12:47 -  - AMD RYZEN™ 5 5600X Processor is in stock, but you haven't selected it.
+ - 20210312_01:12:48 -  - AMD Radeon™ RX 6800 Graphics is in stock, but you haven't selected it.
+ - 20210312_01:12:48 -  - AMD Ryzen™ 9 3950X Desktop Processor is in stock, but you haven't selected it.
+ - 20210312_01:12:48 -  - Bot has started buying-module, it's trying to buy AMD RYZEN™ 9 5950X Processor. -
+ - 20210312_01:13:28 -  - Bot has started scanning -
+ - 20210312_01:13:31 -  - AMD RYZEN™ 7 5800X Processor is in stock, but you haven't selected it.
+ - 20210312_01:15:10 -  - Bot has started scanning -
+ - 20210312_01:15:14 -  - AMD RYZEN™ 7 5800X Processor is in stock, but you haven't selected it.
+ - 20210313_11:38:30 -  - Bot has started scanning -
+ - 20210313_11:38:37 -  - AMD Radeon™ RX 6900 XT Graphics is in stock, but it cost more than you are willing to pay!!!
+ - 20210313_11:38:37 -  - AMD Radeon™ RX 6800 XT Graphics is in stock, but you haven't selected it.
+ - 20210313_11:38:37 -  - AMD RYZEN™ 9 5900X Processor is in stock, but you haven't selected it.
+ - 20210313_11:38:37 -  - AMD RYZEN™ 5 5600X Processor is in stock, but you haven't selected it.
+ - 20210313_11:38:37 -  - AMD Radeon™ RX 6800 Graphics is in stock, but you haven't selected it.
+ - 20210313_11:38:37 -  - AMD Ryzen™ 9 3950X Desktop Processor is in stock, but you haven't selected it.
+ - 20210313_11:38:37 -  - AMD RYZEN™ 9 5950X Processor is in stock, but you haven't selected it.
+ - 20210313_11:38:38 -  - AMD Ryzen™ 9 3900X Desktop Processor is in stock, but you haven't selected it.
+ - 20210313_11:40:56 -  - Bot has started scanning -
+ - 20210313_11:41:00 -  - AMD Radeon™ RX 6900 XT Graphics is in stock, but it cost more than you are willing to pay!!!
+ - 20210313_11:41:00 -  - AMD Radeon™ RX 6800 XT Graphics is in stock, but you haven't selected it.
+ - 20210313_11:41:00 -  - AMD RYZEN™ 9 5900X Processor is in stock, but you haven't selected it.
+ - 20210313_11:41:00 -  - AMD RYZEN™ 5 5600X Processor is in stock, but you haven't selected it.
+ - 20210313_11:41:00 -  - AMD Radeon™ RX 6800 Graphics is in stock, but you haven't selected it.
+ - 20210313_11:41:00 -  - AMD Ryzen™ 9 3950X Desktop Processor is in stock, but you haven't selected it.
+ - 20210313_11:41:00 -  - AMD RYZEN™ 9 5950X Processor is in stock, but you haven't selected it.
+ - 20210313_11:41:00 -  - AMD Ryzen™ 9 3900X Desktop Processor is in stock, but you haven't selected it.
+ - 20210313_11:43:16 -  - Bot has started scanning -
+ - 20210313_11:43:20 -  - AMD RYZEN™ 7 5800X Processor is in stock, but you haven't selected it.
+ - 20210313_11:56:11 -  - Bot has started scanning -
+ - 20210313_11:56:16 -  - AMD RYZEN™ 7 5800X Processor is in stock, but you haven't selected it.
+ - 20210313_11:57:56 -  - Bot has started scanning -
+ - 20210313_11:58:00 -  - AMD RYZEN™ 7 5800X Processor is in stock, but you haven't selected it.
+ - 20210313_11:58:48 -  - Bot has started scanning -
+ - 20210313_11:58:52 -  - AMD RYZEN™ 7 5800X Processor is in stock, but you haven't selected it.
+ - 20210313_12:00:56 -  - Bot has started scanning -
+ - 20210313_12:04:25 -  - Bot has started scanning -
+ - 20210313_12:04:30 -  - AMD RYZEN™ 7 5800X Processor is in stock, but you haven't selected it.
+ - 20210313_12:06:19 -  - Bot has started scanning -
+ - 20210313_12:06:24 -  - Bot has started buying-module, it's trying to buy AMD RYZEN™ 7 5800X Processor. -
+ - 20210313_12:09:22 -  - Bot has started scanning -
+ - 20210313_12:09:26 -  - Bot has started buying-module, it's trying to buy AMD RYZEN™ 7 5800X Processor. -
+ - 20210313_12:12:13 -  - Bot has started scanning -
+ - 20210313_12:12:18 -  - Bot has started buying-module, it's trying to buy AMD RYZEN™ 7 5800X Processor. -
+ - 20210313_12:14:29 -  - Bot has started scanning -
+ - 20210313_12:14:33 -  - AMD RYZEN™ 7 5800X Processor is in stock, but you haven't selected it.
+ - 20210313_12:26:27 -  - Bot has started scanning -
+ - 20210313_12:28:54 -  - Bot has started scanning -
+ - 20210313_12:30:44 -  - Bot has started scanning -
+ - 20210313_12:34:27 -  - Bot has started scanning -
+ - 20210313_12:35:28 -  - Bot has started scanning -
+ - 20210313_12:36:13 -  - Bot has started scanning -
+ - 20210313_12:36:58 -  - Bot has started scanning -
+ - 20210313_12:41:31 -  - Bot has started scanning -
+ - 20210313_12:43:05 -  - Bot has started scanning -
+ - 20210313_12:43:57 -  - Bot has started scanning -
+ - 20210313_12:48:07 -  - Bot has started scanning -
+ - 20210313_12:51:40 -  - Bot has started scanning -
+ - 20210313_12:52:31 -  - Bot has started scanning -
+ - 20210313_13:31:44 -  - Bot has started scanning -
+ - 20210313_13:32:11 -  - Bot has started scanning -
+ - 20210313_13:33:18 -  - Bot has started scanning -
+ - 20210313_13:34:33 -  - Bot has started scanning -
+ - 20210313_13:49:29 -  - Bot has started scanning -
+ - 20210313_13:49:37 -  - AMD Ryzen™ 9 3950X Desktop Processor is in stock, but you haven't selected it.
+ - 20210313_13:49:37 -  - AMD Radeon™ RX 6900 XT Graphics is in stock, but you haven't selected it.
+ - 20210313_13:49:37 -  - AMD RYZEN™ 7 5800X Processor is in stock, but you haven't selected it.
+ - 20210313_13:50:43 -  - Bot has started scanning -
+ - 20210313_13:50:51 -  - AMD Ryzen™ 9 3950X Desktop Processor is in stock, but you haven't selected it.
+ - 20210313_13:50:51 -  - AMD Radeon™ RX 6900 XT Graphics is in stock, but you haven't selected it.
+ - 20210313_13:50:51 -  - AMD RYZEN™ 7 5800X Processor is in stock, but you haven't selected it.
+ - 20210313_13:53:17 -  - Bot has started scanning -
+ - 20210313_13:53:26 -  - AMD Ryzen™ 9 3950X Desktop Processor is in stock, but you haven't selected it.
+ - 20210313_13:53:26 -  - AMD RYZEN™ 7 5800X Processor is in stock, but you haven't selected it.
+ - 20210313_13:53:47 -  - Bot has started buying-module, it's trying to buy AMD Radeon™ RX 6900 XT Graphics. -
+ - 20210313_13:55:03 -  - Bot has started scanning -
+ - 20210313_13:55:11 -  - AMD RYZEN™ 7 5800X Processor is in stock, but you haven't selected it.
+ - 20210313_13:57:00 -  - Bot has started scanning -
+ - 20210313_13:57:12 -  - AMD Ryzen™ 9 3950X Desktop Processor is in stock, but you haven't selected it.
+ - 20210313_13:57:12 -  - AMD Radeon™ RX 6900 XT Graphics is in stock, but you haven't selected it.
+ - 20210313_13:57:13 -  - AMD RYZEN™ 7 5800X Processor is in stock, but you haven't selected it.
+ - 20210313_13:57:52 -  - Bot has started scanning -
+ - 20210313_13:58:00 -  - AMD Ryzen™ 9 3950X Desktop Processor is in stock, but you haven't selected it.
+ - 20210313_13:58:01 -  - AMD Radeon™ RX 6900 XT Graphics is in stock, but you haven't selected it.
+ - 20210313_13:58:01 -  - Bot has started buying-module, it's trying to buy AMD RYZEN™ 7 5800X Processor. -
+ - 20210313_14:00:47 -  - Bot has started scanning -
+ - 20210313_14:01:02 -  - AMD Ryzen™ 9 3950X Desktop Processor is in stock, but you haven't selected it.
+ - 20210313_14:01:02 -  - Bot has started buying-module, it's trying to buy AMD Radeon™ RX 6900 XT Graphics. -
+ - 20210313_14:01:19 -  - Bot has failed to buy AMD Radeon™ RX 6900 XT Graphics. -
+ - 20210313_14:01:19 -  - AMD RYZEN™ 7 5800X Processor is in stock, but you haven't selected it.
+ - 20210313_14:07:59 -  - Bot has started scanning -
+ - 20210313_14:08:06 -  - AMD RYZEN™ 7 5800X Processor is in stock, but you haven't selected it.
+ - 20210313_14:10:00 -  - Bot has started scanning -
+ - 20210313_14:10:07 -  - AMD RYZEN™ 7 5800X Processor is in stock, but you haven't selected it.
+ - 20210314_19:40:32 -  - Bot has started scanning -
+ - 20210314_19:40:40 -  - AMD RYZEN™ 7 5800X Processor is in stock, but you haven't selected it.
+ - 20210314_23:48:38 -  - Bot has started scanning -
+ - 20210314_23:48:48 -  - AMD RYZEN™ 7 5800X Processor is in stock, but you haven't selected it.
+ - 20210315_08:55:26 -  - Bot has started scanning -
+ - 20210315_08:55:36 -  - AMD RYZEN™ 7 5800X Processor is in stock, but you haven't selected it.
+ - 20210315_19:19:44 -  - Bot has started scanning -
+ - 20210315_19:19:57 -  - AMD RYZEN™ 7 5800X Processor is in stock, but you haven't selected it.
+ - 20210315_19:25:00 -  - Bot has started scanning -
+ - 20210315_19:25:11 -  - AMD RYZEN™ 7 5800X Processor is in stock, but you haven't selected it.
+ - 20210316_11:55:43 -  - Bot has started scanning -
+ - 20210316_11:55:55 -  - AMD Ryzen™ 9 3950X Desktop Processor is in stock, but you haven't selected it.
+ - 20210316_11:55:55 -  - AMD Radeon™ RX 6900 XT Graphics is in stock, but you haven't selected it.
+ - 20210316_11:55:56 -  - AMD RYZEN™ 7 5800X Processor is in stock, but you haven't selected it.
+ - 20210316_11:58:45 -  - Bot has started scanning -
+ - 20210316_11:58:57 -  - AMD RYZEN™ 7 5800X Processor is in stock, but you haven't selected it.
+ - 20210316_11:59:37 -  - Bot has started scanning -
+ - 20210316_11:59:49 -  - AMD Radeon™ RX 6700 XT Graphics is in stock, but you haven't selected it.
+ - 20210316_11:59:50 -  - AMD RYZEN™ 7 5800X Processor is in stock, but you haven't selected it.
+ - 20210316_12:00:46 -  - Bot has started scanning -
+ - 20210316_12:00:58 -  - Bot has started buying-module, it's trying to buy AMD Radeon™ RX 6700 XT Graphics. -
+ - 20210316_12:03:06 -  - Bot has started scanning -
+ - 20210316_12:03:16 -  - AMD RYZEN™ 7 5800X Processor is in stock, but you haven't selected it.
+ - 20210318_11:02:20 -  - Bot has started scanning -
+ - 20210318_11:02:30 -  - AMD RYZEN™ 7 5800X Processor is in stock, but you haven't selected it.
+ - 20210318_14:42:09 -  - Bot has started scanning -
+ - 20210318_14:42:20 -  - AMD RYZEN™ 7 5800X Processor is in stock, but you haven't selected it.
+ - 20210318_15:02:33 -  - Bot has started buying-module, it's trying to buy AMD Radeon™ RX 6700 XT Graphics. -
+ - 20210318_15:02:50 -  - Bot has failed to buy AMD Radeon™ RX 6700 XT Graphics. -
+ - 20210318_15:03:07 -  - Bot has started buying-module, it's trying to buy AMD Radeon™ RX 6700 XT Graphics. -
+ - 20210318_15:03:24 -  - Bot has failed to buy AMD Radeon™ RX 6700 XT Graphics. -
+ - 20210318_15:03:40 -  - Bot has started buying-module, it's trying to buy AMD Radeon™ RX 6700 XT Graphics. -
+ - 20210318_15:03:57 -  - Bot has failed to buy AMD Radeon™ RX 6700 XT Graphics. -
+ - 20210318_15:04:13 -  - Bot has started buying-module, it's trying to buy AMD Radeon™ RX 6700 XT Graphics. -
+ - 20210318_15:04:30 -  - Bot has failed to buy AMD Radeon™ RX 6700 XT Graphics. -
+ - 20210318_15:04:46 -  - Bot has started buying-module, it's trying to buy AMD Radeon™ RX 6700 XT Graphics. -
+ - 20210318_15:05:03 -  - Bot has failed to buy AMD Radeon™ RX 6700 XT Graphics. -
+ - 20210318_15:05:19 -  - Bot has started buying-module, it's trying to buy AMD Radeon™ RX 6700 XT Graphics. -
+ - 20210318_15:05:36 -  - Bot has failed to buy AMD Radeon™ RX 6700 XT Graphics. -
+ - 20210318_15:05:53 -  - Bot has started buying-module, it's trying to buy AMD Radeon™ RX 6700 XT Graphics. -
+ - 20210318_15:06:09 -  - Bot has failed to buy AMD Radeon™ RX 6700 XT Graphics. -
+ - 20210318_15:06:26 -  - Bot has started buying-module, it's trying to buy AMD Radeon™ RX 6700 XT Graphics. -
+ - 20210318_15:06:43 -  - Bot has failed to buy AMD Radeon™ RX 6700 XT Graphics. -
+ - 20210318_15:07:00 -  - Bot has started buying-module, it's trying to buy AMD Radeon™ RX 6700 XT Graphics. -
+ - 20210318_15:07:07 -  - Bot has failed to buy AMD Radeon™ RX 6700 XT Graphics. -
+ - 20210318_15:07:23 -  - Bot has started buying-module, it's trying to buy AMD Radeon™ RX 6700 XT Graphics. -
+ - 20210318_15:42:27 -  - Bot has started scanning -
+ - 20210318_15:42:40 -  - AMD RYZEN™ 7 5800X Processor is in stock, but you haven't selected it.
+ - 20210318_15:49:46 -  - AMD RYZEN™ 9 5900X Processor is in stock, but you haven't selected it.
+ - 20210318_15:49:47 -  - AMD RYZEN™ 9 5950X Processor is in stock, but you haven't selected it.
+ - 20210318_15:54:42 -  - AMD RYZEN™ 5 5600X Processor is in stock, but you haven't selected it.
+ - 20210318_15:58:30 -  - Bot has started buying-module, it's trying to buy AMD Radeon™ RX 6700 XT Graphics. -
+ - 20210318_15:58:47 -  - Bot has failed to buy AMD Radeon™ RX 6700 XT Graphics. -
+ - 20210318_15:59:05 -  - AMD Ryzen™ 9 3900X Desktop Processor is in stock, but you haven't selected it.
+ - 20210318_16:18:24 -  - Bot has started buying-module, it's trying to buy AMD Radeon™ RX 6700 XT Graphics. -
+ - 20210318_16:18:41 -  - Bot has failed to buy AMD Radeon™ RX 6700 XT Graphics. -
+ - 20210318_17:12:42 -  - Bot has started scanning -
+ - 20210318_17:45:06 -  - Bot has started scanning -
+ - 20210318_17:45:17 -  - AMD RYZEN™ 7 5800X Processor is in stock, but you haven't selected it.
+ - 20210318_17:45:17 -  - AMD RYZEN™ 5 5600X Processor is in stock, but you haven't selected it.
+ - 20210318_17:45:18 -  - AMD Ryzen™ 9 3900X Desktop Processor is in stock, but you haven't selected it.
+ - 20210318_17:45:18 -  - AMD RYZEN™ 9 5950X Processor is in stock, but you haven't selected it.
+ - 20210318_17:48:05 -  - Bot has started scanning -
+ - 20210318_17:49:57 -  - Bot has started scanning -
+ - 20210318_17:50:11 -  - AMD RYZEN™ 7 5800X Processor is in stock, but you haven't selected it.
+ - 20210318_17:50:12 -  - AMD RYZEN™ 9 5900X Processor is in stock, but you haven't selected it.
+ - 20210318_17:50:12 -  - AMD RYZEN™ 5 5600X Processor is in stock, but you haven't selected it.
+ - 20210318_17:50:12 -  - AMD Ryzen™ 9 3900X Desktop Processor is in stock, but you haven't selected it.
+ - 20210318_17:50:12 -  - AMD RYZEN™ 9 5950X Processor is in stock, but you haven't selected it.
+ - 20210318_17:53:13 -  - Bot has started scanning -
+ - 20210318_17:53:27 -  - AMD RYZEN™ 7 5800X Processor is in stock, but you haven't selected it.
+ - 20210318_17:53:27 -  - AMD RYZEN™ 9 5900X Processor is in stock, but you haven't selected it.
+ - 20210318_17:53:27 -  - AMD RYZEN™ 5 5600X Processor is in stock, but you haven't selected it.
+ - 20210318_17:53:27 -  - AMD Ryzen™ 9 3900X Desktop Processor is in stock, but you haven't selected it.
+ - 20210318_17:53:28 -  - AMD RYZEN™ 9 5950X Processor is in stock, but you haven't selected it.
+ - 20210318_17:56:14 -  - Bot has started scanning -
+ - 20210318_17:56:27 -  - AMD RYZEN™ 7 5800X Processor is in stock, but you haven't selected it.
+ - 20210318_17:56:28 -  - AMD RYZEN™ 9 5900X Processor is in stock, but you haven't selected it.
+ - 20210318_17:56:28 -  - AMD RYZEN™ 5 5600X Processor is in stock, but you haven't selected it.
+ - 20210318_17:56:28 -  - AMD Ryzen™ 9 3900X Desktop Processor is in stock, but you haven't selected it.
+ - 20210318_17:56:28 -  - AMD RYZEN™ 9 5950X Processor is in stock, but you haven't selected it.
+ - 20210318_18:07:13 -  - AMD Ryzen™ 9 3950X Desktop Processor is in stock, but you haven't selected it.
+ - 20210325_18:21:39 -  - Bot has started scanning -
+ - 20210325_18:21:50 -  - AMD Ryzen™ 9 3950X Desktop Processor is in stock, but you haven't selected it.
+ - 20210325_18:21:50 -  - AMD RYZEN™ 7 5800X Processor is in stock, but you haven't selected it.
+ - 20210325_18:21:50 -  - AMD Ryzen™ 9 3900X Desktop Processor is in stock, but you haven't selected it.
+ - 20210325_19:35:47 -  - AMD RYZEN™ 9 5900X Processor is in stock, but you haven't selected it.
+ - 20210325_19:35:47 -  - AMD RYZEN™ 5 5600X Processor is in stock, but you haven't selected it.
+ - 20210325_20:10:38 -  - Bot has started buying-module, it's trying to buy AMD Radeon™ RX 6800 XT Graphics. -
+ - 20210325_20:10:59 -  - Bot has failed to buy AMD Radeon™ RX 6800 XT Graphics. -
